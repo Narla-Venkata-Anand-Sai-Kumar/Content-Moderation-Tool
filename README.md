@@ -89,8 +89,8 @@ After installation, the Internet Video Filter Extension will provide real-time N
 
 - [Narla Venkata Anand Sai Kumar](https://github.com/narla-venkata-anand-sai-Kumar)
 - [Karthik Taraka Sai Bolla](https://github.com/karthikbolla)
-- [Kumar Srnivas Bobba]
-- [Jaswanth Sabbeneni]
+- [Kumar Srnivas Bobba]()
+- [Jaswanth Sabbeneni]()
 
 ## License
 
